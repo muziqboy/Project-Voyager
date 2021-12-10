@@ -1,6 +1,7 @@
 /*
 KOD till kursen Mj1104 - intro till energiteknik
 Vidar Höjer
+Kaleb Girmay
 */
 
 /* HELPFULL ABOUT ARDUINO
